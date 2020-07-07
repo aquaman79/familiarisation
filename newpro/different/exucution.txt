@@ -1,0 +1,1 @@
+gcc -Wall -Werror -Wextre  //-lm maths//  fichier.c 
